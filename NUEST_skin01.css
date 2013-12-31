@@ -1,0 +1,41 @@
+
+
+#player,#player a{ color:#fff; }
+
+#player,#player a{ color:#99620B; }
+
+#player{ background:url(sizerAndVol.png); background-position: bottom !important;background-repeat: repeat-x !important; }
+#player .mainImage{ background:url(http://i1070.photobucket.com/albums/u496/Rainb0wMiLLi/main2.jpg); }
+
+#player #baseLeft{ width:188px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:22px; }
+#player #pause{ left:32px; }
+#player #play{ background:url(http://i1070.photobucket.com/albums/u496/Rainb0wMiLLi/plybutton.jpg);left:31px; }
+#player #previous{ left:8px; }
+#player #next{ left:55px; }
+#player #title{ left:90px;}
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:5px; }
+#player #list{ right:5px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#99620B; }
+#player #seekerBuffered{ background-color:#ffeace; }
+#player #seekerSliderBase{ background-color:#99620B; }
+
+#player #volume{ width:70px; right:33px; }
+#player #volumeSlider{ width:14px; background:url(http://i1070.photobucket.com/albums/u496/Rainb0wMiLLi/vol2-vert-1.jpg); }
+
+
+#playlist,#playlist .module,#playlist h3{ border-color:#ff9200; color:#8f620b; }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#ff9200; color:#99620B; }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#ff9200; color:#8f620b; }
+
+#playlist h3{ background-color: #ff6a00; color:#FFF; }
+#playlist .even{background-color:#FFF;}
+#playlist .odd{ background-color:#ffeace;}
+#playlist .focus{ background-color:#ff6a00; color:#FFF;}
